@@ -10,7 +10,7 @@ Each conversational intent contains:
 # Ressources
 https://chatbotsmagazine.com/contextual-chat-bots-with-tensorflow-4391749d0077
 
-#Requierements
+# Requierements
 Python 3 or higher
 Tensorflow
 json
